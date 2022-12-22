@@ -4,7 +4,7 @@ This is my repository of Data Analytics projects using SQL, Excel/Google Sheets 
 
 #### 📫 How to reach me:
   
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/shakerdotdev)  &nbsp;&nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jaime-shaker-63943440/)  &nbsp;&nbsp; <a href="mailto:jaime.m.shaker@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/jaime-shaker-63943440/)  &nbsp;&nbsp; <a href="mailto:jaime.m.shaker@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 ![Jaime's Stats](https://github-readme-stats.vercel.app/api?username=iweld&show_icons=true)
 
