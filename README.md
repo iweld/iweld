@@ -1,4 +1,4 @@
-### Hi there, My name is Jaime Shaker. 👋
+### My name is Jaime Shaker.
 
 This is my repository of Data Analytics projects using SQL, Excel/Google Sheets and Python.
 
