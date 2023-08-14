@@ -3,7 +3,7 @@
 This is my repository of Data Analytics projects using mostly SQL, with some Excel/Google Sheets and Python mixed in.
 
 ### :handshake: Connect with me:
-
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <!--
 **iweld/iweld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
