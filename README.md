@@ -4,7 +4,7 @@ This is my repository of Data Analytics projects using mostly SQL, with some Exc
 
 ### :handshake: Connect with me:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-shaker/)
+<a href="https://www.linkedin.com/in/jaime-shaker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **iweld/iweld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
