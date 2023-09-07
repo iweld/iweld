@@ -6,7 +6,7 @@ This is a repository of my Data Analytics projects using mostly SQL, Excel/Googl
 <a href="mailto:jaime.m.shaker@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jaime-shaker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<div align="center">
+<div>
   <a href="https://github.com/iweld">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iweld&layout=compact&langs_count=7&theme=dark"/>
 </div>
