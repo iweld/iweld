@@ -2,6 +2,12 @@
 
 This is a repository of my Data Analytics projects using mostly SQL, Excel/Google Sheets and a little Python mixed in.
 
+<div align="center">
+  <a href="https://github.com/iweld">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iweld&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iweld&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ### :handshake: Connect with me:
 <a href="mailto:jaime.m.shaker@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jaime-shaker/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
