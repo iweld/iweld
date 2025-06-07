@@ -1,6 +1,6 @@
 ### My name is Jaime Shaker.
 
-This is a repository of my Data Analytics projects using mostly SQL, Excel/Google Sheets and a little Python mixed in.
+This is a repository of my Data Analytics projects using mostly SQL, Excel/Google Sheets and a little Python mixed in.  
 
 ### 📫 Connect with me:
 <a href="mailto:jaime.m.shaker@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
